@@ -4,6 +4,6 @@ Sz L RedBull autok
 N.Á:Forma 1 Red Bull versenyeredményei.
 N.G:izomautók
 SB Vonatok
-S.A. :paraglider magyarul siklóernyős
+S.A. :siklóernyős
 Sz L RedBull autok
 T.K mig-3
